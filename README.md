@@ -2,7 +2,8 @@
 Custom Development Environment for React JS
 
 
-# Set Up
+# Installation & Setup
+- Clone this repository -
 ```sh
-aaa
+git clone https://github.com/Fox2k17/reactful.git
 ```
