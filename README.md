@@ -1,5 +1,5 @@
 # 👋reactful
-Custom Development Environment for React JS
+Development Environment for React JS
 ## ✍️ Installation & Setup
 - Clone this repository -
 ```sh
